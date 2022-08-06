@@ -1,3 +1,5 @@
+<h1 align="center">Pokemon Cards</h1>
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Pokemon Cards" />
 
@@ -6,8 +8,6 @@
 <a href="https://jose-bone.github.io/pokemon-cards/">Demo</a>
 
 </div>
-
-<h1 align="center">Pokemon Cards</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jose-bone/pokemon-cards?color=6633cc">
