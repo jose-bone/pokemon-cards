@@ -1,5 +1,5 @@
 @import "./reset.css";
-@import "";
+@import "./responsive.css";
 
 body {
   font-family: "Outfit", sans-serif;
